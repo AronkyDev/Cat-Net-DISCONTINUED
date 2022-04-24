@@ -1,6 +1,5 @@
 <div align="center">
-  <a href="Other-Source/CAT-NET-ICON.png">
-    <img src="logoartra.png" alt="Logo" width="170" height="170">
+    <img src="Other Source/CAT-NET-ICON.png" alt="Logo" width="170" height="170">
   </a>
 </div>
 
