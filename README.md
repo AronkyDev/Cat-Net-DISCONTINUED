@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="Other Source/CAT-NET-ICON.png" alt="Logo" width="170" height="170">
+    <img src="Other Source/CAT-NET-ICON.png" alt="Logo" width="400" height="400">
   </a>
 </div>
 
