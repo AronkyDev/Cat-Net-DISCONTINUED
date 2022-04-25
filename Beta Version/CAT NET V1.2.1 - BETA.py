@@ -43,7 +43,7 @@ for i, item in enumerate(items):
         printProgressBar(i + 1, l, prefix='Caricamento:', suffix='In corso..', length=50)
 
 
-print("Benvenuto in CAT-NET V1.2 \nDigita 'help' se hai bisogno di aiuto oppure guarda la mia repository ;)")
+print("Benvenuto in CAT-NET V1.2.1 BETA \nDigita 'help' se hai bisogno di aiuto oppure guarda la mia repository ;)")
 print("Cat Net Source code: https://github.com/IsTk0/Python-project/tree/main/Cat-Net%20project")
 
 
