@@ -13,7 +13,7 @@ print(" | |___ / ___ \| |_____| |\  | |___  | |  ")
 time.sleep(0.5)
 print(" \_____/_/   \_\_|     |_| \_|_____| |_|  ")
 time.sleep(0.5)
-print("Benvenuto in CAT-NET V1.1. \nDigita 'help' se hai bisogno di aiuto oppure guarda la mia repository ;)") 
+print("Benvenuto in CAT-NET V1.1 \nDigita 'help' se hai bisogno di aiuto oppure guarda la mia repository ;)") 
 print("Cat Net Source code: https://github.com/IsTk0/Python-project/tree/main/Cat-Net%20project")                      
 
 def ssh_code():
