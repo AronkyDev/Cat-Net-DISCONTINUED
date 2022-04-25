@@ -1,4 +1,5 @@
 # Created by IsTk0 ;)
+#This version of Cat-Net cannot be run!
 
 import paramiko, time, os, sys
 from ping3 import ping, verbose_ping
@@ -123,14 +124,11 @@ while True:
         print("     Parametri: ")
         print("               Hostname: Il nome identificativo di un dispositivo all'interno di una rete")
         print("                        Es: computer@internet-provider.com")
-        print(
-            "               Username: Il nome utente in informatica definisce il nome con il quale l'utente viene riconosciuto da un computer")
+        print("               Username: Il nome utente in informatica definisce il nome con il quale l'utente viene riconosciuto da un computer")
         print("                        Es: nome-utente-computer")
-        print(
-            "               Password: Una password, in ambito informatico, una sequenza di caratteri alfanumerici e di simboli utilizzata per accedere in modo esclusivo a una risorsa informatica")
+        print("               Password: Una password, in ambito informatico, una sequenza di caratteri alfanumerici e di simboli utilizzata per accedere in modo esclusivo a una risorsa informatica")
         print("                        Es: PasswordComputer")
-        print(
-            "                  Porta: Nell'ambito delle reti di computer le porte sono lo strumento utilizzato per realizzare la multiplazione delle connessioni a livello di trasporto di dati nella rete")
+        print("                  Porta: Nell'ambito delle reti di computer le porte sono lo strumento utilizzato per realizzare la multiplazione delle connessioni a livello di trasporto di dati nella rete")
         print("                        Es: 22 (porta SSH base)")
         print("     2) ping: ")
         print("     Parametri: ")
