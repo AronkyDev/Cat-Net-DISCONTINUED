@@ -12,7 +12,7 @@ print(" | |___ / ___ \| |_____| |\  | |___  | |  ")
 time.sleep(0.5)
 print("  \____/_/   \_\_|     |_| \_|_____| |_|  ")
 time.sleep(0.5)
-print("Benvenuto in CAT-NET V1. \nDigita 'help' se hai bisogno di aiuto oppure guarda la mia repository ;)")                       
+print("Benvenuto in CAT-NET V1.0 \nDigita 'help' se hai bisogno di aiuto oppure guarda la mia repository ;)")                       
 
 def ssh_code():
     server = input("Hostname macchina: --> ")
