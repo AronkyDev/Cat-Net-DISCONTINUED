@@ -21,7 +21,7 @@ def macOS_administrator():
     os.system("""osascript -e 'do shell script "sudo python3 "CAT NET V1.2.3 - BETA.py"" " with administrator privileges'""")
 
 def linux_administrator():
-    print("hello word")
+    os.system("""osascript -e 'do shell script "sudo python3 "CAT NET V1.2.3 - BETA.py"" " with administrator privileges'""")
 
 print("   ____    _  _____     _   _ _____ _____ ")
 print(" /  ___|  / \|_   _|   | \ | | ____|_   _|")
