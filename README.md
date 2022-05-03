@@ -1,3 +1,4 @@
+# This repository has been discontinued. See the new one at: https://github.com/AronkyTechnologies/Cat-Net
 <div align="center">
     <img src="Other Source/CAT-NET-ICON.png" alt="Logo" width="400" height="400">
   </a>
